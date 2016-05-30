@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Alicia and ArteMorfosis sign collaboration agreement in Havana
-datePublished: '2016-05-30T11:32:57.296Z'
-dateModified: '2016-05-30T11:32:48.209Z'
+datePublished: '2016-05-30T11:42:32.318Z'
+dateModified: '2016-05-30T11:42:13.456Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-alicia-leal.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-30-alicia-leal.md
+starred: true
 url: alicia-leal/index.html
 _type: WebPage
 
