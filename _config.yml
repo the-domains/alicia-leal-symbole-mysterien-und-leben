@@ -1,4 +1,4 @@
-name: 'Alicia Leal - SYMBOLE, MYSTERIEN UND LEBEN'
+name: Alicia Leal
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.4972015
@@ -22,8 +22,8 @@ color:
     - '#449EA7'
     - '#B8C7D2'
     - '#E1858D'
-  brandStrength: 0.8222118
+  brandStrength: 0.1875
   lightness: 0.7896455
-  saturation: 0.6245336
-  rhythmicContrast: 0.8418843
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
